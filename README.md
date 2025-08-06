@@ -89,8 +89,8 @@ You need to use `MQTT` to send vehicle data to `Home Assistant`, configure these
 ### 4. `WEBUI`
 You can access the `Carconnectivity`'s original interface from  using directly from `Home Assistant`.
 You can define your own access credentials:
-- `Username`: admin
-- `Password`: secret
+- `Username`: login
+- `Password`: password
 
 ![image](https://raw.githubusercontent.com/Pulpyyyy/carconnectivity-addon/refs/heads/main/img/webui.png)
 
