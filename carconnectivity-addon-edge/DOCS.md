@@ -53,6 +53,8 @@ Choose the manufacturer corresponding to your vehicle from the supported brands:
 - `Volkswagen`
 - `Tronity`
 - `Volvo`
+- `Audi`
+- `Volkswagen North America`
 
 If you own multiple vehicles from different brands, you can configure multiple sections.
 
@@ -60,7 +62,7 @@ If you own multiple vehicles from different brands, you can configure multiple s
 Each car manufacturer provides an online service that allows you to access your vehicle's data remotely. To connect, you need to provide your login credentials.
 
 #### Required Information:
-For `Seat`, `Cupra`, `Skoda`, `Volkswagen` and `Tronity`:
+For `Seat`, `Cupra`, `Skoda`, `Volkswagen`, `Volkswagen_na` and `Tronity`:
 - `Brand`: The manufacturer’s brand.
 - `Username`: The email address used to log into the manufacturer’s service.
 - `Password`: The password for your manufacturer account.
@@ -89,8 +91,8 @@ You need to use `MQTT` to send vehicle data to `Home Assistant`, configure these
 ### 4. `WEBUI`
 You can access the `Carconnectivity`'s original interface from  using directly from `Home Assistant`.
 You can define your own access credentials:
-- `Username`: login
-- `Password`: password
+- `Username`: admin
+- `Password`: secret
 
 ![image](https://raw.githubusercontent.com/Pulpyyyy/carconnectivity-addon/refs/heads/main/img/webui.png)
 

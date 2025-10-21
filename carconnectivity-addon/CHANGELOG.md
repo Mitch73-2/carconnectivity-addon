@@ -1,3 +1,76 @@
+## 0.5.0
+
+
+### 🚀 New Features
+
+- Add Volkswagen for North America support, thanks @zackcornelius
+
+ --- 
+
+## 0.4.4
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-audi** → [v0.1.5](https://github.com/acfischer42/CarConnectivity-connector-audi.git)
+
+ --- 
+
+## 0.4.3
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-audi** → [v0.1.4](https://github.com/acfischer42/CarConnectivity-connector-audi.git)
+
+ --- 
+
+## 0.4.2
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-volkswagen** → [v0.9](https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen.git)
+- **CarConnectivity** → [v0.8](https://github.com/tillsteinbach/CarConnectivity.git)
+
+No audi connector yet, only in edge
+
+ --- 
+
+## 0.4.1 (EDGE only)
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-audi** → [v0.1.4](https://github.com/acfischer42/CarConnectivity-connector-audi.git)
+
+ --- 
+
+## 0.4.0 (EDGE only)
+
+### 🚀 New Features
+
+- Add audi support, thanks @acfischer42
+
+ ---
+
+## 0.3.10
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-seatcupra** → [v0.4.6](https://github.com/tillsteinbach/CarConnectivity-connector-seatcupra.git)
+
+ --- 
+
+## 0.3.9
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-volkswagen** → [v0.9a1](https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen.git)
+
+ --- 
+
 ## 0.3.8
 
 
@@ -5,9 +78,7 @@
 
 - **CarConnectivity** → [v0.8.0](https://github.com/tillsteinbach/CarConnectivity.git)
 
- --- 
- 
- ## 0.3.7
+## 0.3.7
 
 
 - **CarConnectivity-connector-volkswagen** → [v0.8.2](https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen.git)
